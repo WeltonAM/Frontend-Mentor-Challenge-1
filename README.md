@@ -1,4 +1,4 @@
 # Frontend-Mentor-Challenge-1
  QR-component
  
- https://github.com/WeltonAM/Frontend-Mentor-Challenge-1
+https://weltonam.github.io/Frontend-Mentor-Challenge-1/
